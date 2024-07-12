@@ -27,8 +27,8 @@
     - Заполните таблицу тестовыми данными.
 
 ## Скриншоты
-/Users/zhansaya/TestTask/testtask3/image.png
-![Запуск скрипта](https://raw.githubusercontent.com/yourusername/IDMXtask/main/image.png)
+![Запуск скрипта](https://github.com/DaniyarYerbolov02/IDMXtask/blob/main/image.png)
+
 
 ## Использование
 
